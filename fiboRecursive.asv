@@ -1,0 +1,8 @@
+function fibonacciNumber = fiboRecursive(n)
+
+global count;
+if n == 1
+    fibonacc
+
+
+end
